@@ -24,8 +24,8 @@ After this block is finished, you should have the required knowledge to complete
 
 #### Resources
 
-- [Swift Guided Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
-- [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+- [Swift Guided Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
+- [Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/)
 - Lectures 3, 4, and 5 in the [Stanford class](#stanford-class)
 - Advanced Resource: [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
 - Advanced Resource: [Building Better Apps with Value Types in Swift](https://developer.apple.com/videos/play/wwdc2015/414/)
@@ -123,8 +123,8 @@ These topics are extra topics that we may or may not tackle depending on our pro
 
 The official Apple and Swift documentation are always a great place to start if you're stuck.
 
-- [Swift Guided Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
-- [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+- [Swift Guided Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
+- [Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/)
 
 ### Attendance
 
