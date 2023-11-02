@@ -26,10 +26,10 @@ You can find all the details on the freeform exercises [here](freeform).
 
 ### Fixed exercises
 
-- [Swift Exercise](swift-exercise.md) (Deadline Monday, 20 November 2023, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/4S-1sefD))
-- [Login Exercise](login-screen-exercise.md) (Deadline Wednesday, 10 December 2023, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/PmWzOPls))
-- [REST Exercise](rest-exercise.md) (Deadline Tuesday, 9 January 2024, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/0y4ulFHw))
-- [TableView Exercise](tableview-exercise.md) (Deadline Monday, 15 January 2024, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/CFwRhnu0)) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
+- [Swift Exercise](swift-exercise.md) (Deadline Monday, 20 November 2023, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/77VBk8vR))
+- [Login Exercise](login-screen-exercise.md) (Deadline Wednesday, 10 December 2023, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/AKVNwXQL))
+- [REST Exercise](rest-exercise.md) (Deadline Tuesday, 9 January 2024, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/0BY1p1Gt))
+- [TableView Exercise](tableview-exercise.md) (Deadline Monday, 15 January 2024, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/aN5fMYF_)) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
 
 ### Freeform exercises proposals (see [here](freeform#proposals))
 
@@ -42,7 +42,7 @@ There are two deadlines for freeform exercise submissions:
 
 - Please submit your first batch of freeform exercises until **Sunday, 15 January 2023 23:55**
 - Please submit your second and final batch of freeform exercises until **Sunday, 22 January 2023 23:55**
-- [Github Classroom Link for both](https://classroom.github.com/a/Ix2LyzF3)
+- [Github Classroom Link for both](https://classroom.github.com/a/19qXZ6tQ)
 
 Since the number and scope of freeform exercises isn't fixed, what exactly you'll have to submit will be a bit different for each student. If you’re working on a single, bigger exercise, I’d like you to have at least one major aspect or feature of your app finished. This can be either a vertical slice (for example, one screen/feature is completely finished, including UI, networking, persistence), or a horizontal slice (for example, you haven’t written a single bit of UI code, but your entire networking and persistence infrastructure is finished). Both is fine. When writing the proposals, please keep the deadlines in mind and try to get a rough plan of when you're going to submit which features.
 
