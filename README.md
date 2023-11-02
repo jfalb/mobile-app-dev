@@ -8,7 +8,7 @@ For the exercises, I've prepared a few programming assignments for you. There wi
 
 The fixed exercises are pretty firm in their scope and tasks. They're almost like an interactive tutorial, but without the solutions. The goal is for you to gain competence in the most important aspects of iOS development that everyone should know about.
 
-The freeform exercises are much more flexible. You can choose which topics you'd like to work on and pick from a variety of frameworks to learn and features to implement. To learn more about the exercises, see [this page](exercises).
+The freeform exercises are much more flexible. You can choose which topics you'd like to work on and pick from a variety of frameworks to learn and features to implement. To learn more about the exercises, see [this page](exercises/index.md).
 
 This class is very new, so you'll probably encounter some rough edges and run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](#support-or-contact). I'm always happy to help.
 
@@ -40,18 +40,18 @@ Don't worry if you're missing a few things on this list - you can learn them as 
 
 Previous knowledge in Objective-C, Swift or iOS Development is **not** required.
 
-### [Lectures & Topics](lectures)
+### [Lectures & Topics](lectures/index.md)
 
 I've divided the lecture topics into lecture blocks. One lecture block may span multiple lectures. This way I can stay flexible in how many lectures I dedicate to one block.
 
-You can find all the details on the lectures [here](lectures).
+You can find all the details on the lectures [here](lectures/index.md).
 
-### [Exercises](exercises)
+### [Exercises](exercises/index.md)
 
-There will be multiple programming exercises for you to do during the semester. You can find all the details [here](exercises).
+There will be multiple programming exercises for you to do during the semester. You can find all the details [here](exercises/index.md).
 
 ### Support or Contact
 
 For quick answers to questions, you can post to the class's Telegram group. I don't want to post the invite link here publicly, but you should've received it via email. I monitor the group frequently to quickly help you during the programming assignments.
 
-Any questions, comments or feedback on the class? [Send me an email](mailto:&#97;&#108;&#101;&#120;&#97;&#110;&#100;&#101;&#114;&#46;&#118;&#111;&#110;&#46;&#102;&#114;&#97;&#110;&#113;&#117;&#101;&#64;&#101;&#100;&#117;&#46;&#102;&#104;&#45;&#99;&#97;&#109;&#112;&#117;&#115;&#119;&#105;&#101;&#110;&#46;&#97;&#99;&#46;&#97;&#116;) any time. If you prefer, you can also send me a message in German. I'm always happy to help.
+Any questions, comments or feedback on the class? [Send me an email](mailto:juergen.falb@edu.fh-campuswien.ac.at) any time. If you prefer, you can also send me a message in German. I'm always happy to help.

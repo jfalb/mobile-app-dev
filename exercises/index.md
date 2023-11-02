@@ -6,7 +6,7 @@ iOS development for this class requires a Mac computer running the latest stable
 
 - You're going to need a free Apple developer account, which you can create [here](https://developer.apple.com/account/).
 - Since we're using GitHub Classroom for the exercises, please also create a free [GitHub](https://github.com) account, if you don't have one yet.
-- Install the latest stable Xcode version. I recommend installing via [this fairly hidden download page](https://developer.apple.com/download/more/) on the Apple developer site, **not** via the App Store. The App Store version has the disadvantage that it will sometimes automatically update. Since Xcode ships with the latest Swift compiler, iOS SDK, etc., this can sometimes cause your code to break. Downloading and installing directly through the developer site doesn't have this problem. This way you can also install multiple Xcode versions side-by-side.
+- Install the latest stable Xcode version. I recommend installing via [this fairly hidden download page](https://developer.apple.com/download/more/) on the Apple developer site or via the App Store. **Note:** The App Store version has the disadvantage that it will sometimes automatically update. Since Xcode ships with the latest Swift compiler, iOS SDK, etc., this can sometimes cause your code to break. Downloading and installing directly through the developer site doesn't have this problem. This way you can also install multiple Xcode versions side-by-side.
 - Just so you know, downloading and installing Xcode can take a very long time. Do this early enough, so you have enough time to focus on the exercises.
 - After the installation, run Xcode once, since it will install additional components.
 - I strongly recommend installing [Homebrew](https://brew.sh/) on your system. It's a package manager that allows you to easily install additional software.
@@ -26,10 +26,10 @@ You can find all the details on the freeform exercises [here](freeform).
 
 ### Fixed exercises
 
-- [Swift Exercise](swift-exercise) (Deadline Wednesday, 21 September 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/4S-1sefD))
-- [Login Exercise](login-screen-exercise) (Deadline Wednesday, 19 October 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/PmWzOPls))
-- [REST Exercise](rest-exercise) (Deadline Wednesday, 9 November 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/0y4ulFHw))
-- [TableView Exercise](tableview-exercise) (Deadline Monday, 12 December 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/CFwRhnu0)) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
+- [Swift Exercise](swift-exercise.md) (Deadline Wednesday, 21 September 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/4S-1sefD))
+- [Login Exercise](login-screen-exercise.md) (Deadline Wednesday, 19 October 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/PmWzOPls))
+- [REST Exercise](rest-exercise.md) (Deadline Wednesday, 9 November 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/0y4ulFHw))
+- [TableView Exercise](tableview-exercise.md) (Deadline Monday, 12 December 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/CFwRhnu0)) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
 
 ### Freeform exercises proposals (see [here](freeform#proposals))
 
