@@ -14,8 +14,8 @@ See important deadlines on the [exercises page](../exercises#important-deadlines
 
 For each freeform exercise, you first need to submit a proposal. 
 
-- The proposal should be submitted in a Google Doc.
-- Please send me an **editable** link to your Google Doc via email (you have to enable editing in the share dialog of the document). This is so I can suggest changes and leave comments in the document
+- The proposal should be submitted in a document.
+- Please send me a document via email. I will suggest changes and leave comments in the document.
 
 The proposal should contain a textual description that describes in detail what your new app or feature will do.
 
